@@ -20,8 +20,11 @@ body{
 
 #azul{
   background-color: #2B7DB9;
+  position: relative;
+  margin-left: 200px;
+
     }
 
-#azul{
+#verde{
   background-color: #B7D84B;
       }
